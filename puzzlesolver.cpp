@@ -3,8 +3,8 @@
 # Author: Alok Yadav
 # Tested In: Windows[CodeBlocks]
 # Updated: 24-11-2017
-# URL: www.aknets.com/alok/
-# Created: 20-10-2017 alok@aknets.com
+# URL: https://alokyadav.in
+# Created: 20-10-2017 alok@alokyadav.in
 #####################################################*/
 #include <bits/stdc++.h>
 #include <windows.h>
